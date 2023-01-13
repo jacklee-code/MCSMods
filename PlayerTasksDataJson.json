@@ -1,0 +1,103 @@
+{
+  "Task": {
+    "1": {
+      "id": 1,
+      "AllIndex": [
+        1
+      ],
+      "disableTask": false,
+      "finishIndex": [],
+      "curTime": "0001-1-1",
+      "continueTime": 0,
+      "isComplete": false,
+      "EndTime": "3000-12-31",
+      "NowIndex": 1,
+      "NewTask": true
+    },
+    "2": {
+      "id": 2,
+      "AllIndex": [
+        1
+      ],
+      "finishIndex": [],
+      "curTime": "0001/01/08",
+      "continueTime": 0,
+      "isComplete": false,
+      "EndTime": "0001-02-28",
+      "NowIndex": 1,
+      "disableTask": true,
+      "NewTask": true
+    },
+    "4": {
+      "id": 4,
+      "AllIndex": [
+        1,
+        2,
+        3
+      ],
+      "finishIndex": [
+        1
+      ],
+      "curTime": "0001/01/22",
+      "continueTime": 0,
+      "isComplete": false,
+      "EndTime": "0001-02-28",
+      "NowIndex": 3,
+      "disableTask": true
+    },
+    "9": {
+      "id": 9,
+      "AllIndex": [
+        1
+      ],
+      "disableTask": false,
+      "finishIndex": [],
+      "curTime": "0001/05/17",
+      "continueTime": 0,
+      "isComplete": false,
+      "EndTime": "0100-12-31",
+      "NowIndex": 1,
+      "NewTask": false
+    },
+    "61": {
+      "id": 61,
+      "AllIndex": [
+        1
+      ],
+      "disableTask": false,
+      "finishIndex": [],
+      "curTime": "0001-1-1",
+      "continueTime": 0,
+      "isComplete": false,
+      "EndTime": "0500-12-31",
+      "NowIndex": 1,
+      "NewTask": true
+    },
+    "62": {
+      "id": 62,
+      "AllIndex": [
+        1
+      ],
+      "disableTask": false,
+      "finishIndex": [],
+      "curTime": "0001-1-1",
+      "continueTime": 0,
+      "isComplete": false,
+      "EndTime": "0500-12-31",
+      "NowIndex": 1,
+      "NewTask": true
+    },
+    "666001": {
+      "id": "666001",
+      "AllIndex": [
+        1
+      ],
+      "finishIndex": [],
+      "curTime": "2022-11-29",
+      "continueTime": 50,
+      "isComplete": false,
+      "NowIndex": 1,
+      "disableTask": true
+    }
+  }
+}

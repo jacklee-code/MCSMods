@@ -1,0 +1,866 @@
+{
+  "id": 21901,
+  "Name": "",
+  "IsTag": false,
+  "FirstName": "",
+  "face": 0,
+  "fightFace": 0,
+  "CyList": [],
+  "isImportant": false,
+  "NPCTag": 34,
+  "XingGe": 14,
+  "IsKnowPlayer": false,
+  "QingFen": 0,
+  "TuPoMiShu": [],
+  "Title": "碎星岛修士",
+  "ChengHaoID": 427,
+  "GongXian": 0,
+  "SexType": 1,
+  "Type": 16,
+  "LiuPai": 162,
+  "MenPai": 0,
+  "AvatarType": 1,
+  "Level": 12,
+  "shaQi": 0,
+  "NextExp": 77760000,
+  "equipWeapon": 0,
+  "equipList": {
+    "Ring": {
+      "SkillSeids": [
+        {
+          "id": 29,
+          "value1": 1
+        }
+      ],
+      "ItemSeids": [
+        {
+          "id": 5,
+          "value1": [
+            953
+          ],
+          "value2": [
+            30
+          ]
+        },
+        {
+          "id": 5,
+          "value1": [
+            31
+          ],
+          "value2": [
+            7
+          ]
+        }
+      ],
+      "ItemID": 18010,
+      "Name": "索魂无相印",
+      "SeidDesc": "回合开始，获得【凝神】x7\n对自己造成30点真实伤害\n",
+      "ItemIcon": "LianQiIcon/MCS_fabao_yin_6_4",
+      "quality": 4,
+      "QPingZhi": 3,
+      "shuXingIdList": [
+        159
+      ],
+      "qualitydesc": "上品纯阳法宝",
+      "Desc": "不知何人将灵龙牙、冥鲲皮、灵龙牙等材料炼制的上品纯阳法宝，此印铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。",
+      "AttackType": [
+        6
+      ],
+      "Money": 733200,
+      "ItemFlag": [
+        304,
+        3046,
+        3
+      ]
+    },
+    "Clothing": {
+      "SkillSeids": [
+        {
+          "id": 29,
+          "value1": 1
+        }
+      ],
+      "ItemSeids": [
+        {
+          "id": 5,
+          "value1": [
+            953
+          ],
+          "value2": [
+            6
+          ]
+        },
+        {
+          "id": 5,
+          "value1": [
+            5
+          ],
+          "value2": [
+            66
+          ]
+        }
+      ],
+      "ItemID": 18006,
+      "Name": "辟尘圣羽袍",
+      "SeidDesc": "回合结束，获得【护罩】x66\n对自己造成6点真实伤害\n",
+      "ItemIcon": "LianQiIcon/MCS_fabao_pao_5_4",
+      "quality": 4,
+      "QPingZhi": 3,
+      "shuXingIdList": [
+        86
+      ],
+      "qualitydesc": "上品纯阳法宝",
+      "Desc": "不知何人将暴龙心脏、暴龙心脏、万载御灵铁等材料炼制的上品纯阳法宝，此法袍铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。",
+      "AttackType": [
+        5
+      ],
+      "Money": 733200,
+      "ItemFlag": [
+        204,
+        2045,
+        2
+      ]
+    },
+    "Weapon1": {
+      "SkillSeids": [
+        {
+          "id": 29,
+          "value1": 1
+        },
+        {
+          "id": 80,
+          "value1": [
+            953
+          ],
+          "value2": [
+            18
+          ]
+        },
+        {
+          "id": 80,
+          "value1": [
+            998
+          ],
+          "value2": [
+            6
+          ]
+        }
+      ],
+      "ItemID": 18002,
+      "Name": "摄魂震天钟",
+      "SeidDesc": "获得【驭神】x6\n对自己造成18点真实伤害\n",
+      "ItemIcon": "LianQiIcon/MCS_fabao_zhong_6_4",
+      "quality": 4,
+      "QPingZhi": 3,
+      "shuXingIdList": [
+        23
+      ],
+      "qualitydesc": "上品纯阳法宝",
+      "Desc": "不知何人将灵龙鳞、灵龙鳞、冥河水母皮等材料炼制的上品纯阳法宝，此钟铭刻白虎灵纹,灵力更加强大，但对使用者也要求更高。",
+      "AttackType": [
+        6
+      ],
+      "Money": 733200,
+      "ItemFlag": [
+        104,
+        1046,
+        1
+      ]
+    }
+  },
+  "equipWeaponPianHao": [
+    15,
+    23,
+    31,
+    47,
+    63,
+    71,
+    79
+  ],
+  "equipWeapon2PianHao": [
+    15,
+    23,
+    31,
+    47,
+    63,
+    71,
+    79
+  ],
+  "equipClothingPianHao": [
+    86,
+    102,
+    101,
+    87,
+    95
+  ],
+  "equipRingPianHao": [
+    127,
+    159
+  ],
+  "equipClothing": 0,
+  "equipRing": 0,
+  "LingGen": [
+    5,
+    40,
+    30,
+    0,
+    0
+  ],
+  "skills": [
+    549,
+    609,
+    607,
+    603,
+    501,
+    502,
+    504
+  ],
+  "JinDanType": [
+    5
+  ],
+  "staticSkills": [
+    5199,
+    5054,
+    5075,
+    5204,
+    5070
+  ],
+  "xiuLianSpeed": 3847,
+  "yuanying": 5189,
+  "HuaShenLingYu": 0,
+  "MoneyType": 6,
+  "IsRefresh": 0,
+  "dropType": 0,
+  "canjiaPaiMai": 0,
+  "paimaifenzu": [
+    2
+  ],
+  "wudaoType": 66,
+  "XinQuType": 614,
+  "gudingjiage": 0,
+  "sellPercent": 0,
+  "useItem": {
+    "5302": 5,
+    "5305": 1,
+    "5306": 1,
+    "5307": 4,
+    "5308": 2,
+    "5315": 1,
+    "5320": 3,
+    "5402": 1,
+    "5405": 2
+  },
+  "NoteBook": {
+    "4": [
+      {
+        "danyao": 5302,
+        "num": 1,
+        "time": "0513/12/1 0:00:00"
+      },
+      {
+        "danyao": 5302,
+        "num": 1,
+        "time": "0514/8/1 0:00:00"
+      },
+      {
+        "danyao": 5402,
+        "num": 1,
+        "time": "0586/5/1 0:00:00"
+      },
+      {
+        "danyao": 5302,
+        "num": 1,
+        "time": "0665/8/1 0:00:00"
+      },
+      {
+        "danyao": 5302,
+        "num": 1,
+        "time": "0773/6/1 0:00:00"
+      },
+      {
+        "danyao": 5302,
+        "num": 1,
+        "time": "0773/6/1 0:00:00"
+      }
+    ],
+    "5": [
+      {
+        "danyao": 5405,
+        "num": 1,
+        "time": "0519/8/1 0:00:00"
+      },
+      {
+        "danyao": 5405,
+        "num": 1,
+        "time": "0526/5/1 0:00:00"
+      },
+      {
+        "danyao": 5305,
+        "num": 1,
+        "time": "0905/6/1 0:00:00"
+      }
+    ],
+    "6": [
+      {
+        "danyao": 5306,
+        "num": 1,
+        "time": "0816/7/1 0:00:00"
+      }
+    ],
+    "7": [
+      {
+        "danyao": 5308,
+        "num": 1,
+        "time": "0531/4/1 0:00:00"
+      },
+      {
+        "danyao": 5308,
+        "num": 1,
+        "time": "0766/2/1 0:00:00"
+      }
+    ],
+    "9": [
+      {
+        "danyao": 5315,
+        "num": 1,
+        "time": "0810/7/1 0:00:00"
+      }
+    ],
+    "10": [
+      {
+        "danyao": 5320,
+        "num": 1,
+        "time": "0513/12/1 0:00:00"
+      },
+      {
+        "danyao": 5320,
+        "num": 1,
+        "time": "0516/1/1 0:00:00"
+      },
+      {
+        "danyao": 5320,
+        "num": 1,
+        "time": "0523/9/1 0:00:00"
+      }
+    ],
+    "11": [
+      {
+        "danyao": 5307,
+        "num": 1,
+        "time": "0522/4/1 0:00:00"
+      },
+      {
+        "danyao": 5307,
+        "num": 1,
+        "time": "0577/9/1 0:00:00"
+      },
+      {
+        "danyao": 5307,
+        "num": 1,
+        "time": "0877/2/1 0:00:00"
+      },
+      {
+        "danyao": 5307,
+        "num": 1,
+        "time": "0914/12/1 0:00:00"
+      }
+    ],
+    "31": [
+      {
+        "danyao": 5302,
+        "num": 1,
+        "time": "0513/9/1 0:00:00"
+      },
+      {
+        "danyao": 5302,
+        "num": 1,
+        "time": "0514/6/1 0:00:00"
+      },
+      {
+        "danyao": 5301,
+        "num": 1,
+        "time": "0515/12/1 0:00:00"
+      },
+      {
+        "danyao": 5320,
+        "num": 1,
+        "time": "0515/12/1 0:00:00"
+      },
+      {
+        "danyao": 5304,
+        "num": 1,
+        "time": "0516/11/1 0:00:00"
+      },
+      {
+        "danyao": 5321,
+        "num": 1,
+        "time": "0516/11/1 0:00:00"
+      },
+      {
+        "danyao": 5312,
+        "num": 1,
+        "time": "0516/11/1 0:00:00"
+      },
+      {
+        "danyao": 5301,
+        "num": 1,
+        "time": "0516/11/1 0:00:00"
+      },
+      {
+        "danyao": 5304,
+        "num": 1,
+        "time": "0523/8/1 0:00:00"
+      },
+      {
+        "danyao": 5320,
+        "num": 1,
+        "time": "0523/8/1 0:00:00"
+      },
+      {
+        "danyao": 5312,
+        "num": 1,
+        "time": "0556/6/1 0:00:00"
+      },
+      {
+        "danyao": 5304,
+        "num": 1,
+        "time": "0556/6/1 0:00:00"
+      },
+      {
+        "danyao": 5320,
+        "num": 1,
+        "time": "0556/6/1 0:00:00"
+      },
+      {
+        "danyao": 5321,
+        "num": 1,
+        "time": "0651/1/1 0:00:00"
+      },
+      {
+        "danyao": 5322,
+        "num": 1,
+        "time": "0651/1/1 0:00:00"
+      },
+      {
+        "danyao": 5322,
+        "num": 1,
+        "time": "0659/10/1 0:00:00"
+      },
+      {
+        "danyao": 5401,
+        "num": 1,
+        "time": "0659/10/1 0:00:00"
+      },
+      {
+        "danyao": 5302,
+        "num": 1,
+        "time": "0659/10/1 0:00:00"
+      },
+      {
+        "danyao": 5310,
+        "num": 1,
+        "time": "0761/4/1 0:00:00"
+      },
+      {
+        "danyao": 5308,
+        "num": 1,
+        "time": "0761/4/1 0:00:00"
+      },
+      {
+        "danyao": 5315,
+        "num": 1,
+        "time": "0794/3/1 0:00:00"
+      },
+      {
+        "danyao": 5321,
+        "num": 1,
+        "time": "0816/6/1 0:00:00"
+      },
+      {
+        "danyao": 5306,
+        "num": 1,
+        "time": "0816/6/1 0:00:00"
+      },
+      {
+        "danyao": 5316,
+        "num": 2,
+        "time": "0914/11/1 0:00:00"
+      },
+      {
+        "danyao": 5307,
+        "num": 1,
+        "time": "0914/11/1 0:00:00"
+      },
+      {
+        "danyao": 5401,
+        "num": 1,
+        "time": "0914/11/1 0:00:00"
+      }
+    ],
+    "32": [
+      {
+        "fabaopinjie": 4,
+        "leixing": 1,
+        "zhuangbei": "摄魂胜心剑",
+        "time": "0513/10/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 2,
+        "zhuangbei": "天飒雷驱甲",
+        "time": "0517/10/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 3,
+        "zhuangbei": "索魂无相印",
+        "time": "0524/1/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 3,
+        "zhuangbei": "索魂星岚珠",
+        "time": "0558/9/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 3,
+        "zhuangbei": "鬼棘罗睺珠",
+        "time": "0605/12/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 1,
+        "zhuangbei": "嗫语启白匣",
+        "time": "0689/11/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 1,
+        "zhuangbei": "控念煌骏环",
+        "time": "0711/8/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 1,
+        "zhuangbei": "嗫语绝虎剑",
+        "time": "0718/8/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 1,
+        "zhuangbei": "索魂曙天钟",
+        "time": "0732/8/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 3,
+        "zhuangbei": "鬼棘七凰珠",
+        "time": "0749/8/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 1,
+        "zhuangbei": "索魂化合针",
+        "time": "0777/2/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 2,
+        "zhuangbei": "辟尘圣羽袍",
+        "time": "0796/7/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 2,
+        "zhuangbei": "咆天罗厄袍",
+        "time": "0839/11/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 1,
+        "zhuangbei": "摄魂震天钟",
+        "time": "0882/12/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 1,
+        "zhuangbei": "索魂怀梦匣",
+        "time": "0891/6/1 0:00:00"
+      },
+      {
+        "fabaopinjie": 4,
+        "leixing": 1,
+        "zhuangbei": "索魂伏魔环",
+        "time": "0915/3/1 0:00:00"
+      }
+    ],
+    "33": [
+      {
+        "qiYuId": 3,
+        "time": "0515/1/1 0:00:00"
+      },
+      {
+        "qiYuId": 404,
+        "item": 5405,
+        "num": 1,
+        "time": "0519/2/1 0:00:00"
+      },
+      {
+        "qiYuId": 1,
+        "time": "0519/6/1 0:00:00"
+      },
+      {
+        "qiYuId": 1,
+        "time": "0522/8/1 0:00:00"
+      },
+      {
+        "qiYuId": 404,
+        "item": 5405,
+        "num": 1,
+        "time": "0526/2/1 0:00:00"
+      },
+      {
+        "qiYuId": 1,
+        "time": "0541/6/1 0:00:00"
+      },
+      {
+        "qiYuId": 1,
+        "time": "0552/9/1 0:00:00"
+      },
+      {
+        "qiYuId": 404,
+        "item": 5402,
+        "num": 1,
+        "time": "0583/2/1 0:00:00"
+      },
+      {
+        "qiYuId": 3,
+        "time": "0678/2/1 0:00:00"
+      },
+      {
+        "qiYuId": 404,
+        "item": 5501,
+        "num": 1,
+        "time": "0758/12/1 0:00:00"
+      }
+    ],
+    "50": [
+      {
+        "npcname": "帝海云",
+        "time": "0525/7/1 0:00:00"
+      },
+      {
+        "npcname": "泽思阙",
+        "time": "0529/5/1 0:00:00"
+      },
+      {
+        "npcname": "廉源火",
+        "time": "0529/12/1 0:00:00"
+      },
+      {
+        "npcname": "公孙垂裳",
+        "time": "0584/9/1 0:00:00"
+      },
+      {
+        "npcname": "史秋柏",
+        "time": "0588/11/1 0:00:00"
+      },
+      {
+        "npcname": "碧筛岩",
+        "time": "0678/1/1 0:00:00"
+      },
+      {
+        "npcname": "褚盼兰",
+        "time": "0794/3/1 0:00:00"
+      },
+      {
+        "npcname": "郑长空",
+        "time": "0850/4/1 0:00:00"
+      },
+      {
+        "npcname": "扁飞绿",
+        "time": "0881/8/1 0:00:00"
+      }
+    ],
+    "51": [
+      {
+        "npcname": "太叔青亦",
+        "time": "0515/12/1 0:00:00"
+      },
+      {
+        "npcname": "四海春冬",
+        "time": "0816/2/1 0:00:00"
+      }
+    ],
+    "60": [
+      {
+        "item": 6421,
+        "itemName": "",
+        "time": "0528/5/1 0:00:00"
+      },
+      {
+        "item": 11941,
+        "itemName": "",
+        "time": "0528/6/1 0:00:00"
+      },
+      {
+        "item": 3544,
+        "itemName": "",
+        "time": "0533/2/1 0:00:00"
+      },
+      {
+        "item": 11931,
+        "itemName": "",
+        "time": "0536/2/1 0:00:00"
+      },
+      {
+        "item": 5319,
+        "itemName": "",
+        "time": "0571/4/1 0:00:00"
+      },
+      {
+        "item": 3829,
+        "itemName": "",
+        "time": "0582/3/1 0:00:00"
+      },
+      {
+        "item": 6410,
+        "itemName": "",
+        "time": "0725/8/1 0:00:00"
+      },
+      {
+        "item": 11401,
+        "itemName": "",
+        "time": "0732/8/1 0:00:00"
+      },
+      {
+        "item": 6325,
+        "itemName": "",
+        "time": "0749/8/1 0:00:00"
+      },
+      {
+        "item": 9305,
+        "itemName": "",
+        "time": "0756/8/1 0:00:00"
+      },
+      {
+        "item": 3023,
+        "itemName": "",
+        "time": "0777/2/1 0:00:00"
+      },
+      {
+        "item": 6404,
+        "itemName": "",
+        "time": "0847/12/1 0:00:00"
+      },
+      {
+        "item": 11941,
+        "itemName": "",
+        "time": "0873/8/1 0:00:00"
+      },
+      {
+        "item": 8399,
+        "itemName": "",
+        "time": "0882/12/1 0:00:00"
+      }
+    ]
+  },
+  "wuDaoSkillList": [
+    601,
+    611,
+    621,
+    633,
+    641,
+    901,
+    911,
+    922,
+    931,
+    941,
+    2101,
+    2112,
+    2121,
+    2201,
+    2211
+  ],
+  "wuDaoJson": {
+    "1": {
+      "id": 1,
+      "level": 1,
+      "exp": 1000
+    },
+    "2": {
+      "id": 2,
+      "level": 1,
+      "exp": 1310
+    },
+    "3": {
+      "id": 3,
+      "level": 1,
+      "exp": 1000
+    },
+    "4": {
+      "id": 4,
+      "level": 1,
+      "exp": 1310
+    },
+    "5": {
+      "id": 5,
+      "level": 1,
+      "exp": 1000
+    },
+    "6": {
+      "id": 6,
+      "level": 5,
+      "exp": 150000
+    },
+    "7": {
+      "id": 7,
+      "level": 1,
+      "exp": 1155
+    },
+    "8": {
+      "id": 8,
+      "level": 1,
+      "exp": 1000
+    },
+    "9": {
+      "id": 9,
+      "level": 5,
+      "exp": 150310
+    },
+    "10": {
+      "id": 10,
+      "level": 2,
+      "exp": 8310
+    },
+    "21": {
+      "id": 21,
+      "level": 3,
+      "exp": 35156
+    },
+    "22": {
+      "id": 22,
+      "level": 5,
+      "exp": 158000
+    }
+  },
+  "wuXin": 85,
+  "Status": {
+    "StatusId": 1,
+    "StatusTime": 57159
+  },
+  "shouYuan": 1087,
+  "ziZhi": 70,
+  "HP": 3319,
+  "WuDaoValue": 18824,
+  "WuDaoValueLevel": 5,
+  "EWWuDaoDian": 5,
+  "shengShi": 86,
+  "dunSu": 75,
+  "age": 12945,
+  "ActionId": 37,
+  "IsNeedHelp": false,
+  "isTanChaUnlock": false,
+  "exp": 63807151
+}
