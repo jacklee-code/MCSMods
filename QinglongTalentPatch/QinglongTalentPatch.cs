@@ -13,8 +13,8 @@ namespace QinglongTalentPatch
     [BepInPlugin("me.jacklee.mcs.patch.qinglong", "奶油青龙血脉天赋补丁", "1.0.0")]
     public class QinglongTalentPatch : BaseUnityPlugin
     {
-        const int QinglongBuffId = 96722;
         const int QinnglongTianfutId = 31313;
+        const int ZhenlongTianfutId = 31336;
         const int OriginalTianFuId = 312;
 
         static ManualLogSource logger;
@@ -22,7 +22,7 @@ namespace QinglongTalentPatch
         void Start()
         {
             logger = this.Logger;
-            logger.LogInfo("JackMod : 奶油青龙血脉天赋补丁 已加载");
+            logger.LogInfo("JackMod : 奶油龙族血脉天赋补丁 已加载");
             Harmony.CreateAndPatchAll(typeof(QinglongTalentPatch));
         }
 
@@ -32,9 +32,9 @@ namespace QinglongTalentPatch
             if (tianFuID == OriginalTianFuId)
             {
                 logger.LogInfo("JackMod : 何人在鉴定本座血脉？");
-                if (Tools.instance.CheckHasTianFu(QinnglongTianfutId))
+                if (Tools.instance.CheckHasTianFu(QinnglongTianfutId) || Tools.instance.CheckHasTianFu(ZhenlongTianfutId))
                 {
-                    logger.LogInfo("JackMod : 青龙补丁真，鉴定为真龙！ (Patch成功)");
+                    logger.LogInfo("JackMod : 龙族补丁真，鉴定为真龙！ (Patch成功)");
                     __result = true;
                     return false;
                 }
